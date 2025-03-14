@@ -1,2 +1,2 @@
 # Co-opMinesweeper
-A co-op Minesweeper variant.
+A co-op Minesweeper variant forked from Timovski.
